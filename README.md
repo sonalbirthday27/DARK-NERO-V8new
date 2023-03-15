@@ -11,17 +11,13 @@
 - FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARK-NERO-V8/fork)
 </p>
 
-<p align="center">
-## `Scan QR Code For Session`
-</p>
+<h1 align="center">Scan QR Code For Session</h1>
 
 <p align="center">
 [![Dark Nero](https://repl.it/badge/github/quiec/whatsasena)](https://www.darknero.ga/scan)
 </p>
 
-<p align="center">
-<h1>DEPLOY PLAT FORM</h1>
-</p>
+<h1 align="center">DEPLOY PLAT FORM</h1>
 
 <p align="center">
 <a href="https://railway.app/new"><img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px"></a>
