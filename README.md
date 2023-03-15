@@ -1,5 +1,6 @@
-# QE SACAN Deployment
-- QR CODE SCAN (https://www.darknero.ga/scan?i=1)
+# QE SACAN DEPLOYMENT
+
+[![Dark nERO](https://repl.it/badge/github/quiec/whatsasena)](https://www.darknero.ga/scan)
 
 # DEPLOY PLAT FORM
 
