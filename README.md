@@ -3,7 +3,7 @@
     <img src="https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg">
   </a>
 
-<h1 align="center"> Black Dragon
+<h1 align="center"> DARK NERO
 </h1>
 
 <p align="center"> 
