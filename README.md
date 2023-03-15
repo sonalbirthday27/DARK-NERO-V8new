@@ -7,9 +7,7 @@
 # Setup For Deployment 👇
 </p>
 
-<p align="center">
-- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARK-NERO-V8/fork)
-</p>
+<h1 align="center">FORK THE REPOSITORY <a href="https://railway.app/new">HERE</a></h1>
 
 <h1 align="center">Scan QR Code For Session</h1>
 
