@@ -1,4 +1,8 @@
-# QE SACAN DEPLOYMENT
+# Setup For Deployment 👇
+
+- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARK-NERO-V8/fork)
+
+## `Scan QR Code For Session`
 
 [![Dark nERO](https://repl.it/badge/github/quiec/whatsasena)](https://www.darknero.ga/scan)
 
