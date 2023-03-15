@@ -33,3 +33,48 @@
 <p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARK-NERO-V8/"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Railway" width="170px"></a>
 </p>
+    
+<br>
+<br>
+    
+<p align="center"><b>CLONE REPO & INSTALLATION DEPENDENCIES</b></p>
+    
+```bash
+git clone https://github.com/Kaveeshasithum/DARK-NERO-V8.git
+cd DARK-NERO-V8
+
+npm start
+```
+## `For Termux/Ssh/Ubuntu`
+```bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/Kaveeshasithum/DARK-NERO-V8
+cd DARK-NERO-V8
+npm start
+```
+## `For VPS`
+```bash
+apt install nodejs 
+apt install git 
+apt apt install ffmpeg 
+apt apt install libwebp 
+apt apt install imagrmagick
+apt install bash
+git clone https://github.com/Kaveeshasithum/DARK-NERO-V8
+cd DARK-NERO-V8
+npm start
+```
+## `For 24/7 Activation (Termux)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
+   
