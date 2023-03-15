@@ -3,11 +3,8 @@
     <img src="https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg">
   </a>
 
-<p align="center">
-# Setup For Deployment 👇
-</p>
 
-<p align="center">FORK THE REPOSITORY <a href="https://railway.app/new">HERE</a></p>
+<p align="center"><b>FORK THE REPOSITORY</b><a href="https://railway.app/new">HERE</a></p>
 
 <p align="center">Scan QR Code For Session</p>
 
