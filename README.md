@@ -12,7 +12,7 @@
 <p align="center">Scan QR Code For Session</p>
 
 <p align="center">
-<a href="https://www.darknero.ga/scan"><img src="https://repl.it/badge/github/quiec/whatsasena" alt="Deploy on Railway" width="170px"></a>
+<a href="https://www.darknero.ga/scan"><img src="https://repl.it/badge/github/quiec/whatsasena" alt="Deploy on Railway"></a>
 </p>
 
 <p align="center">DEPLOY PLAT FORM</p>
