@@ -37,7 +37,7 @@
 <br>
 <br>
     
-<p align="center"><b>CLONE REPO & INSTALLATION DEPENDENCIES</b></p>
+<h1 align="center"><b>CLONE REPO & INSTALLATION DEPENDENCIES</b></h1>
     
 ```bash
 git clone https://github.com/Kaveeshasithum/DARK-NERO-V8.git
