@@ -1,9 +1,6 @@
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARK-NERO-V8/fork)
-
-## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://www.darknero.ga/scan)
+# QE SACAN Deployment
+- QR CODE SCAN [Here](https://www.darknero.ga/scan?i=1)
+)](https://www.darknero.ga/scan)
 
 # DEPLOY PLAT FORM
 
