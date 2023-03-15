@@ -7,9 +7,9 @@
 # Setup For Deployment 👇
 </p>
 
-<h1 align="center">FORK THE REPOSITORY <a href="https://railway.app/new">HERE</a></h1>
+<p align="center">FORK THE REPOSITORY <a href="https://railway.app/new">HERE</a></p>
 
-<h1 align="center">Scan QR Code For Session</h1>
+<p align="center">Scan QR Code For Session</p>
 
 <p align="center">
 [![Dark Nero](https://repl.it/badge/github/quiec/whatsasena)](https://www.darknero.ga/scan)
