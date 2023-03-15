@@ -1,6 +1,5 @@
 # QE SACAN Deployment
-- QR CODE SCAN [Here](https://www.darknero.ga/scan?i=1)
-)](https://www.darknero.ga/scan)
+- QR CODE SCAN (https://www.darknero.ga/scan?i=1)
 
 # DEPLOY PLAT FORM
 
