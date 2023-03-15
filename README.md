@@ -4,15 +4,15 @@
   </a>
 
 
-<p align="center"><b>FORK THE REPOSITORY</b><a href="https://railway.app/new">HERE</a></p>
+<p align="center"><b>FORK THE REPOSITORY</b><a href="https://railway.app/new"> HERE</a></p>
 
-<p align="center">Scan QR Code For Session</p>
+<p align="center"><b>SCAN QR CODE FOR SESSION</b></p>
 
 <p align="center">
 <a href="https://www.darknero.ga/scan"><img src="https://repl.it/badge/github/quiec/whatsasena" alt="Deploy on Railway"></a>
 </p>
 
-<p align="center">DEPLOY PLAT FORM</p>
+<p align="center"><b>DEPLOY PLAT FORM</b></p>
 
 <p align="center">
 <a href="https://railway.app/new"><img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px"></a>
