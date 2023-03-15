@@ -45,6 +45,10 @@ cd DARK-NERO-V8
 
 npm start
 ```
+    
+<br>
+<br>
+    
 <h1 align="center"><b>FOR TERMUX/SSH/UBUNTU</b></h1>
     
 ```bash
@@ -61,6 +65,9 @@ pkg install imagemagick -y
 git clone https://github.com/Kaveeshasithum/DARK-NERO-V8
 cd DARK-NERO-V8
 npm start```
+
+<br>
+<br>
     
 <h1 align="center"><b>FOR VPS</b></h1>
     
@@ -75,6 +82,9 @@ git clone https://github.com/Kaveeshasithum/DARK-NERO-V8
 cd DARK-NERO-V8
 npm start```
 
+<br>
+<br>   
+    
 <h1 align="center"><b>FOR 24/7 ACTIVATION (TERMUX)</b></h1>    
 
 ```bash
