@@ -21,13 +21,13 @@ global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
 global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
+global.ownername = "Kaveesha Sithum" //ur owner name
+global.ytname = "HELA CLOUD" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Sri Lanka, Colombo, Kurunegala" //ur location
 
 //bot bomdy 
-global.session = "RE14ZU14QUU=" //session Id
+global.session = "UHlHZkFYTTE=" //session Id
 global.ownernomer = "94786802371" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94786802371'] //ur premium number
