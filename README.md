@@ -46,6 +46,7 @@ cd DARK-NERO-V8
 npm start
 ```
 <h1 align="center"><b>FOR TERMUX/SSH/UBUNTU</b></h1>
+    
 ```bash
 apt update
 apt upgrade
@@ -62,6 +63,7 @@ cd DARK-NERO-V8
 npm start```
     
 <h1 align="center"><b>FOR VPS</b></h1>
+    
 ```bash
 apt install nodejs 
 apt install git 
