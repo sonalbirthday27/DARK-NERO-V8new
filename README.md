@@ -59,8 +59,8 @@ pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Kaveeshasithum/DARK-NERO-V8
 cd DARK-NERO-V8
-npm start
-```
+npm start```
+    
 <h1 align="center"><b>FOR VPS</b></h1>
 ```bash
 apt install nodejs 
@@ -71,9 +71,10 @@ apt apt install imagrmagick
 apt install bash
 git clone https://github.com/Kaveeshasithum/DARK-NERO-V8
 cd DARK-NERO-V8
-npm start
-```
-## `For 24/7 Activation (Termux)`
+npm start```
+
+<h1 align="center"><b>FOR 24/7 ACTIVATION (TERMUX)</b></h1>    
+
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
