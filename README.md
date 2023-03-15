@@ -3,6 +3,8 @@
     <img src="https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg">
   </a>
 
+<p align="center"> 
+<b>Hello, I am "Dark Nero" an Opensource WhatsApp bot made by <a href="https://github.com/Kaveeshasithum">Kaveeshasithum</a> and his team "Dark Nero" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.    
 
 <p align="center"><b>FORK THE REPOSITORY</b><a href="https://railway.app/new"> HERE</a></p>
 
