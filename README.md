@@ -5,17 +5,32 @@
 
 <p align="center">
 # Setup For Deployment 👇
+</p>
 
+<p align="center">
 - FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARK-NERO-V8/fork)
+</p>
 
+<p align="center">
 ## `Scan QR Code For Session`
+</p>
 
-[![Dark nERO](https://repl.it/badge/github/quiec/whatsasena)](https://www.darknero.ga/scan)
+<p align="center">
+[![Dark Nero](https://repl.it/badge/github/quiec/whatsasena)](https://www.darknero.ga/scan)
+</p>
 
+<p align="center">
 # DEPLOY PLAT FORM
+</p>
 
+<p align="center">
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/)
+</p>
 
+<p align="center">
 [![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
+</p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARK-NERO-V8/)</p>
+<p align="center">
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARK-NERO-V8/)
+</p>
