@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-# DEPLOY PLAT FORM
+<h1>DEPLOY PLAT FORM</h1>
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 </p>
 
 <p align="center">
-[![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
+<a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/e464e609e43eb3dfdc144.png" alt="Deploy on Railway" width="170px"></a>
 </p>
 
 <p align="center">
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARK-NERO-V8/)
+<a href="https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARK-NERO-V8/"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Railway" width="170px"></a>
 </p>
