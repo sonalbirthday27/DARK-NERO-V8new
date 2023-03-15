@@ -45,7 +45,7 @@ cd DARK-NERO-V8
 
 npm start
 ```
-## `For Termux/Ssh/Ubuntu`
+<h1 align="center"><b>FOR TERMUX/SSH/UBUNTU</b></h1>
 ```bash
 apt update
 apt upgrade
@@ -61,7 +61,7 @@ git clone https://github.com/Kaveeshasithum/DARK-NERO-V8
 cd DARK-NERO-V8
 npm start
 ```
-## `For VPS`
+<h1 align="center"><b>FOR VPS</b></h1>
 ```bash
 apt install nodejs 
 apt install git 
