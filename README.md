@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/)
+<a href="https://railway.app/new"><img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px"></a>
 </p>
 
 <p align="center">
